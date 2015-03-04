@@ -6,6 +6,7 @@ public class Hola {
 		
 		String s = "Hola mundo";
 		System.out.println(s);
+		System.out.println("Servidor");
 	}
 	
 }
