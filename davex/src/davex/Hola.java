@@ -7,7 +7,7 @@ public class Hola {
 		int x=7;
 		String s = "Hola mundo";
 		System.out.println(s);
-		System.out.println("Servi d o r");
+		System.out.println("Servi do r");
 		
 	}
 	
